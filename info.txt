@@ -1,3 +1,7 @@
 Hello there..🙋‍♀️😁 
 
+<<<<<<< HEAD
 this is new version .. 🐱
+=======
+are you there ? 🙄
+>>>>>>> 4cc4202 (changed info)
